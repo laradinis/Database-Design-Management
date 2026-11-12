@@ -1,4 +1,4 @@
-# Database-Website-Project
+# Database-Design&Management
 This project is a web-based application designed to manage and explore a comprehensive database of Disney+ content. It features a relational database backend and an interactive frontend for querying and visualizing titles, directors, and categories.
 
 
